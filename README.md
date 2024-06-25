@@ -1,4 +1,4 @@
-## Olá!👌
+## Olá!
 Meu nome é Vinicius 🙋 <br>
 Estou cursando Ciencias da computação na SPTECH 💻 <br>
 E meu foco atualmente está em ser um desenvolvedor FullStack! 👨‍💻
